@@ -1,0 +1,4 @@
+com\italocesarfernandes\model\Usuario_.class
+com\italocesarfernandes\db\UsuarioDAO.class
+com\italocesarfernandes\managedbeans\LoginManagedBean.class
+com\italocesarfernandes\model\Usuario.class
